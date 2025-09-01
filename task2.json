@@ -1,0 +1,1550 @@
+[
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "是封过佛位的猴子",
+    "Source Word": "封过佛位的猴子",
+    "Target Word": "monkey was made Buddha",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "好兄长， 你的刀钝了？",
+    "Source Word": "刀钝了",
+    "Target Word": "your sword is dull",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Keeper of Black Wind Mountain",
+    "Chinese Subtitle": "遇到些夯货倒还好用",
+    "Source Word": "夯货",
+    "Target Word": "stubborn opponents",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "正好给俺老孙挠个痒……",
+    "Source Word": "挠个痒",
+    "Target Word": "give me a scratch",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "俺老孙啥功名不要，只求回到这花果山终老，过过逍遥日子",
+    "Source Word": "功名",
+    "Target Word": "so-called merits",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "这么多年了，除了那只猪头，就属你最会扯淡，最能逗老孙开心",
+    "Source Word": "猪头",
+    "Target Word": "that pig",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "天上阳光扎眼的很，有种再和你舅舅去山里会会",
+    "Source Word": "你舅舅",
+    "Target Word": "your uncle",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "猢狲啊猢狲，我本不想与你这个手下败将再战一场",
+    "Source Word": "手下败将",
+    "Target Word": "someone I've bested before",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "要不你现在就跪下，认个错，这事儿就算过去了，如何？",
+    "Source Word": "跪下",
+    "Target Word": "bend the knees",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "好兄长， 你的刀钝了？",
+    "Source Word": "好兄长",
+    "Target Word": "Good brother",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "让你小子带些虾兵蟹将过来虚张声势",
+    "Source Word": "虚张声势",
+    "Target Word": "/",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "猢狲啊猢狲，我本不想与你这个手下败将再战一场",
+    "Source Word": "猢狲",
+    "Target Word": "monkey",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Wolf Swornsword",
+    "Chinese Subtitle": "敢作弄你爷爷？",
+    "Source Word": "你爷爷",
+    "Target Word": "my grandfather",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "蠢狗，放肆，还不退下",
+    "Source Word": "蠢狗",
+    "Target Word": "stupid dog",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "杨兄弟，你放心",
+    "Source Word": "杨兄弟",
+    "Target Word": "/",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "这里的，上面的，还有刚刚那条黑的",
+    "Source Word": "那条黑的",
+    "Target Word": "the black one",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "天上阳光扎眼的很，有种再和你舅舅去山里会会",
+    "Source Word": "有种",
+    "Target Word": "it's like",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "你他娘的杀我猴子猴孙",
+    "Source Word": "他娘的",
+    "Target Word": "bastards",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Wolf Swornsword",
+    "Chinese Subtitle": "好个小猢狲",
+    "Source Word": "小猢狲",
+    "Target Word": "little monkey",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "都记好喽，他不是只普通猴子，他是有功的猴子",
+    "Source Word": "有功的猴子",
+    "Target Word": "monkey of merit",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "让你小子带些虾兵蟹将过来虚张声势",
+    "Source Word": "你小子",
+    "Target Word": "you",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "泼猴，你受了天箓，本性未改",
+    "Source Word": "本性未改",
+    "Target Word": "your nature has not changed",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "这么多年了，除了那只猪头，就属你最会扯淡，最能逗老孙开心",
+    "Source Word": "扯淡",
+    "Target Word": "talks the tallest tales",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "斗战胜佛……",
+    "Source Word": "斗战胜佛",
+    "Target Word": "The Victorious Fighting Buddha",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "我让你亲眼看看，我是怎么杀光天庭每一条狗的",
+    "Source Word": "狗",
+    "Target Word": "dog",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "上面的天王老子信不过我，我懂",
+    "Source Word": "天王老子",
+    "Target Word": "high above",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "你这般不识抬举，算不算背恩忘情",
+    "Source Word": "不识抬举",
+    "Target Word": "ungrateful",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "小外甥，这就是你说的单挑？",
+    "Source Word": "小外甥",
+    "Target Word": "Little nephew",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "你这般不识抬举，算不算背恩忘情",
+    "Source Word": "背恩忘情",
+    "Target Word": "betrayal of trust",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "泼猴，吃吾一刃！",
+    "Source Word": "泼猴",
+    "Target Word": "Monkey",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "待会儿我只拔下你额头上那颗眼睛尝尝鲜，其他两颗先给你留着",
+    "Source Word": "拔下你额头上那颗眼睛",
+    "Target Word": "pluck your extra eye out",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "泼猴，你受了天箓，本性未改",
+    "Source Word": "泼猴",
+    "Target Word": "Monkey",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Sun Wukong",
+    "Chinese Subtitle": "让你小子带些虾兵蟹将过来虚张声势",
+    "Source Word": "虾兵蟹将",
+    "Target Word": "knuckleheads",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 1,
+    "Character": "Erlang, the Sacred Divinity",
+    "Chinese Subtitle": "猢狲啊猢狲，我本不想与你这个手下败将再战一场",
+    "Source Word": "猢狲",
+    "Target Word": "/",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "这鬼地方也有鲜肉送上门？",
+    "Source Word": "鬼地方",
+    "Target Word": "here",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "Man-in-stone",
+    "Chinese Subtitle": "快走，本事不大，心倒挺贪",
+    "Source Word": "心倒挺贪",
+    "Target Word": "greed is quite strong",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "可怜现在连只贼猴子都拿不下",
+    "Source Word": "贼猴子",
+    "Target Word": "thief monkey",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Man-in-stone",
+    "Chinese Subtitle": "你狗日的真不识俊，偏要跟我试试身手!",
+    "Source Word": "狗日的",
+    "Target Word": "son of a bitch",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Man-in-stone",
+    "Chinese Subtitle": "不知道哪个妖孽用法力把我困在石头里了",
+    "Source Word": "妖孽",
+    "Target Word": "demon",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Man-in-stone",
+    "Chinese Subtitle": "滚开，不害臊！",
+    "Source Word": "不害臊",
+    "Target Word": "not asahmed",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "Keeper of Black Wind Mountain",
+    "Chinese Subtitle": "别听他掰扯！",
+    "Source Word": "掰扯",
+    "Target Word": "nonsense",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Headless Monk",
+    "Chinese Subtitle": "好一个心狠手辣的泼赖猴",
+    "Source Word": "泼赖猴",
+    "Target Word": "Heartless monkey",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "Keeper of Black Wind Mountain",
+    "Chinese Subtitle": "如今这些小儿",
+    "Source Word": "小儿",
+    "Target Word": "younguais",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "这天杀的毛团，日后大王知道了定饶不了它！",
+    "Source Word": "天杀的",
+    "Target Word": "jackass",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "居然是只两脚羊",
+    "Source Word": "两脚羊",
+    "Target Word": "two-legged sheep",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Man-in-stone",
+    "Chinese Subtitle": "你不会是想要回这宝贝罢？不害臊！",
+    "Source Word": "不害臊",
+    "Target Word": "not ashamed of yourself",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "Headless Monk",
+    "Chinese Subtitle": "那黄毛孽畜再回籍",
+    "Source Word": "孽畜",
+    "Target Word": "cursed beast",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "刁民！刁民！",
+    "Source Word": "刁民",
+    "Target Word": "Damn commoners",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Keeper of Black Wind Mountain",
+    "Chinese Subtitle": "真是目无尊长！",
+    "Source Word": "目无尊长",
+    "Target Word": "no manners",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Black Wind King",
+    "Chinese Subtitle": "有点本事",
+    "Source Word": "本事",
+    "Target Word": "cheap tricks",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "砸死你这刁民！",
+    "Source Word": "刁民",
+    "Target Word": "traitor",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Keeper of Black Wind Mountain",
+    "Chinese Subtitle": "看着花里胡哨",
+    "Source Word": "花里胡哨",
+    "Target Word": "intricate",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "Man-in-stone",
+    "Chinese Subtitle": "快走，本事不大，心倒挺贪",
+    "Source Word": "本事不大",
+    "Target Word": "abilities are not great",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "Headless Monk",
+    "Chinese Subtitle": "好一个心狠手辣的泼赖猴",
+    "Source Word": "心狠手辣",
+    "Target Word": "vicious and vile",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Black Bear Guai",
+    "Chinese Subtitle": "小泼物有点手段",
+    "Source Word": "小泼物",
+    "Target Word": "cunning wretch",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "Man-in-stone",
+    "Chinese Subtitle": "你这娃子真好骗，我可算是弄到这宝贝哩!",
+    "Source Word": "这娃子真好骗",
+    "Target Word": "easy to fool",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Man-in-stone",
+    "Chinese Subtitle": "滚开，不害臊！",
+    "Source Word": "滚开",
+    "Target Word": "Get out",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "这天杀的毛团，日后大王知道了定饶不了它！",
+    "Source Word": "毛团",
+    "Target Word": "furry jackass",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "Elder Jinchi",
+    "Chinese Subtitle": "但我能闻到那股臊味",
+    "Source Word": "臊味",
+    "Target Word": "odor",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "这鬼地方也有鲜肉送上门？",
+    "Source Word": "鲜肉",
+    "Target Word": "fresh meat",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Black Bear Guai",
+    "Chinese Subtitle": "好端端的谁敢对那闹天宫的瘟神动手",
+    "Source Word": "瘟神",
+    "Target Word": "mighty Wrecker",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "Black Wind King",
+    "Chinese Subtitle": "有种跟我来山顶会会！",
+    "Source Word": "有种",
+    "Target Word": "if you dare",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "Black Bear Guai",
+    "Chinese Subtitle": "今日本大王先不与你纠缠！",
+    "Source Word": "与你纠缠",
+    "Target Word": "sorry life",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "即帮我等降服巨虫，再帮我等降了这贼猴子罢！",
+    "Source Word": "贼猴子",
+    "Target Word": "thief monkey",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "贼猴子，难道你不知我国有敬鼠令么！",
+    "Source Word": "贼猴子",
+    "Target Word": "Damn monkey",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "刁民造反啦！",
+    "Source Word": "刁民",
+    "Target Word": "Damn commoners",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "King of Flowing Sands",
+    "Chinese Subtitle": "小声小声，你这瓜皮！",
+    "Source Word": "瓜皮",
+    "Target Word": "fool",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 2,
+    "Character": "Shen Monkey",
+    "Chinese Subtitle": "小小蛇妖，不过尔尔",
+    "Source Word": "小小蛇妖",
+    "Target Word": "snake guais",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "要是哪个不长眼的闯了进去，扰了大王作法，我可担待不起",
+    "Source Word": "不长眼的",
+    "Target Word": "heedless fools",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Son of Tiger’s Acolyte",
+    "Chinese Subtitle": "狗心贱种，还敢顶虎先锋名号接着做那黄风怪的手下",
+    "Source Word": "狗心贱种",
+    "Target Word": "Rotten mutt",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "好妹妹，估着这金疙瘩要等不到你师父来开咯",
+    "Source Word": "好妹妹",
+    "Target Word": "Good sister",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Kang-Jin Star",
+    "Chinese Subtitle": "你若放下执念，我自然会劝师父放了你",
+    "Source Word": "执念",
+    "Target Word": "attachment",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "老子亲自把你的傻儿子洗干净，送进去！",
+    "Source Word": "老子",
+    "Target Word": "I",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "那老瓜怂没来？",
+    "Source Word": "老瓜怂",
+    "Target Word": "old loser",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Son of Tiger’s Acolyte",
+    "Chinese Subtitle": "兄弟又如何，老子早晚要报这个仇",
+    "Source Word": "老子",
+    "Target Word": "I",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Man-in-stone",
+    "Chinese Subtitle": "赖皮，不知羞！",
+    "Source Word": "不知羞",
+    "Target Word": "wicked",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Bodhisattva Lingji",
+    "Chinese Subtitle": "孽徒啊孽徒",
+    "Source Word": "孽徒",
+    "Target Word": "fool",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "老子亲自把你的傻儿子洗干净，送进去！",
+    "Source Word": "傻儿子",
+    "Target Word": "dimwit son",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Bodhisattva Lingji",
+    "Chinese Subtitle": "这贼鼠私下寻得其中一根，因自身修为有限",
+    "Source Word": "贼鼠",
+    "Target Word": "thief rat",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "妈了个巴子，咋又这么迟 ？",
+    "Source Word": "妈了个巴子",
+    "Target Word": "Bloody hell",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "不识起倒，拿你这凡夫给大王做个案酒！",
+    "Source Word": "不识起倒",
+    "Target Word": "You scorn my words",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Kang-Jin Star",
+    "Chinese Subtitle": "既不识相……",
+    "Source Word": "不识相",
+    "Target Word": "Neither did he recognize the situation",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "The Third Prince",
+    "Chinese Subtitle": "尽是灵山造的恶业",
+    "Source Word": "恶业",
+    "Target Word": "this demon",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "看来那老贼得了师兄的玩意，果然功力大涨",
+    "Source Word": "老贼",
+    "Target Word": "old thief",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Kang-Jin Star",
+    "Chinese Subtitle": "师父果没说错，猴子最是冥顽……",
+    "Source Word": "冥顽",
+    "Target Word": "stubborn",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "刚刚闻到一股臊味",
+    "Source Word": "臊味",
+    "Target Word": "a stinky smell",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Kang-Jin Star",
+    "Chinese Subtitle": "元帅说笑了",
+    "Source Word": "元帅",
+    "Target Word": "general",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "The Third Prince",
+    "Chinese Subtitle": "这股子臊味儿，可真是熟悉啊",
+    "Source Word": "臊味儿",
+    "Target Word": "little brat",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "就等你进来与我一起双修了",
+    "Source Word": "双修",
+    "Target Word": "practice together",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "管他娘的，老子先尝两口！",
+    "Source Word": "老子",
+    "Target Word": "I",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Man-in-stone",
+    "Chinese Subtitle": "赖皮，不知羞！",
+    "Source Word": "赖皮",
+    "Target Word": "twerp",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Kang-Jin Star",
+    "Chinese Subtitle": "元帅还是不肯归顺吗",
+    "Source Word": "元帅",
+    "Target Word": "general",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "管他娘的，老子先尝两口！",
+    "Source Word": "管他娘的",
+    "Target Word": "Who cares anyway",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "好妹妹，里面凉快得很呐",
+    "Source Word": "好妹妹",
+    "Target Word": "Good sister",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Kang-Jin Star",
+    "Chinese Subtitle": "元帅还是不肯归顺吗",
+    "Source Word": "不肯归顺",
+    "Target Word": "refuses to submit",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "我可消受不起",
+    "Source Word": "消受不起",
+    "Target Word": "can't take it",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "你这拐子脸的小和尚，哪冒出来的？",
+    "Source Word": "拐子脸的小和尚",
+    "Target Word": "fur-faced mug",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "东西放下，赶紧回去下崽",
+    "Source Word": "下崽",
+    "Target Word": "breed more rats",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Kang-Jin Star",
+    "Chinese Subtitle": "这金饶是祖师爷的法宝，小小天命人，如何破得了",
+    "Source Word": "小小天命人",
+    "Target Word": "a small mortal",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 3,
+    "Character": "Bodhisattva Lingji",
+    "Chinese Subtitle": "孽徒啊孽徒",
+    "Source Word": "孽徒",
+    "Target Word": "disciple",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Tiger Vanguard",
+    "Chinese Subtitle": "不识起倒，拿你这凡夫给大王做个案酒！",
+    "Source Word": "凡夫",
+    "Target Word": "you",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 3,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "连你这东天小官都被驯得服服帖帖",
+    "Source Word": "东天小官",
+    "Target Word": "a small official from the Eastern Heaven",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Maitreya",
+    "Chinese Subtitle": "无佛可拜，自然眼瞎",
+    "Source Word": "眼瞎",
+    "Target Word": "eyes are blind",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "老头儿，许久未见，你脾气见长啊!",
+    "Source Word": "脾气见长",
+    "Target Word": "temper's grown fiercer",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "定又是那小和尚耍把戏，拜什么拜，回去瞧瞧！",
+    "Source Word": "小和尚",
+    "Target Word": "little monk",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Xu Dog",
+    "Chinese Subtitle": "不消说，定是那老头儿欺负你了",
+    "Source Word": "老头儿",
+    "Target Word": "old loong",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Chen Loong",
+    "Chinese Subtitle": "我死了算了，神仙做不成，又被你这猢狲欺负",
+    "Source Word": "猢狲",
+    "Target Word": "/",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Green-Capped Martialist",
+    "Chinese Subtitle": "你根本做不成天命人，还是早登极乐罢",
+    "Source Word": "早登极乐",
+    "Target Word": "go to paradise early",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Chen Loong",
+    "Chinese Subtitle": "你这小儿，搅我雅兴！",
+    "Source Word": "小儿",
+    "Target Word": "young one",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "那小和尚故弄玄虚，谁知真假",
+    "Source Word": "故弄玄虚",
+    "Target Word": "playing tricks",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Green-Capped Martialist",
+    "Chinese Subtitle": "三番两次试你，竟都是不分好歹的愚善",
+    "Source Word": "愚善",
+    "Target Word": "foolishly kind person",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "定又是那小和尚耍把戏，拜什么拜，回去瞧瞧！",
+    "Source Word": "耍把戏",
+    "Target Word": "playing tricks",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "阿绵花屎呢，拖拖拉拉的！",
+    "Source Word": "阿绵花屎",
+    "Target Word": "Constipation",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "人不人鬼不鬼的婆娘",
+    "Source Word": "人不人鬼不鬼",
+    "Target Word": "Blasted",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "人不人鬼不鬼的婆娘",
+    "Source Word": "婆娘",
+    "Target Word": "eyesore",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "毛脸毛眼，尖嘴缩腮，全仗着命大",
+    "Source Word": "尖嘴缩腮",
+    "Target Word": "pinched face",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "喂！你这鬼娃儿，又是哪冒出来的山精树鬼？",
+    "Source Word": "山精树鬼",
+    "Target Word": "/",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Green-Capped Martialist",
+    "Chinese Subtitle": "莽夫罢了",
+    "Source Word": "莽夫",
+    "Target Word": "a brute force",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "那小和尚让四处找找，是让我们拜四次哩！",
+    "Source Word": "小和尚",
+    "Target Word": "The little monk",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "疯泼和尚，忒没道理！",
+    "Source Word": "疯泼和尚",
+    "Target Word": "Crazy monk",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "找个屁！",
+    "Source Word": "找个屁",
+    "Target Word": "What's the point of looking for it",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "等靠岸了，我一定上去先砸了那小破庙",
+    "Source Word": "小破庙",
+    "Target Word": "blasted temple",
+    "Annotator 1": "neutral",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Green-Capped Martialist",
+    "Chinese Subtitle": "小小伎俩便能轻松骗来",
+    "Source Word": "小小伎俩",
+    "Target Word": "small trick",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Traveler (Green-Capped Martialist)",
+    "Chinese Subtitle": "吓得那人屁滚尿流地逃了",
+    "Source Word": "屁滚尿流",
+    "Target Word": "/",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "你才眼瞎，不知先拜拜面前的活菩萨",
+    "Source Word": "眼瞎",
+    "Target Word": "bad eyesight",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "花果山那只老猢狲特地浼我来处理，生怕你中了他的算计",
+    "Source Word": "算计",
+    "Target Word": "ugly tricks",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "不想想当年在天上，我几时拿正眼看过她",
+    "Source Word": "拿正眼看",
+    "Target Word": "worth my second glance",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "那小和尚故弄玄虚，谁知真假",
+    "Source Word": "小和尚",
+    "Target Word": "little monk",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "老头儿，许久未见，你脾气见长啊!",
+    "Source Word": "老头儿",
+    "Target Word": "old bones",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "花果山那只老猢狲特地浼我来处理，生怕你中了他的算计",
+    "Source Word": "老猢狲",
+    "Target Word": "old monkey",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "龟老弟，这么多年被封在这鸟不拉屎的地方，苦了你了",
+    "Source Word": "鸟不拉屎的地方",
+    "Target Word": "shithole",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "我老猪平生最嫌这些表面功夫",
+    "Source Word": "表面功夫",
+    "Target Word": "superficiality",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "喂！你这鬼娃儿，又是哪冒出来的山精树鬼？",
+    "Source Word": "鬼娃儿",
+    "Target Word": "little demon",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "毛脸毛眼，尖嘴缩腮，全仗着命大",
+    "Source Word": "毛脸毛眼",
+    "Target Word": "furry coat",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 4,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "我呸！",
+    "Source Word": "我呸",
+    "Target Word": "Bah",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 4,
+    "Character": "Green-Capped Martialist",
+    "Chinese Subtitle": "三番两次试你，竟都是不分好歹的愚善",
+    "Source Word": "不分好歹",
+    "Target Word": "doesn't know the difference between good and bad",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "你那黄眉小儿失足淹死事小",
+    "Source Word": "小儿",
+    "Target Word": "brat",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "你这夯货，也被那老贼抓到了？",
+    "Source Word": "老贼",
+    "Target Word": "old thief",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Yin Tiger",
+    "Chinese Subtitle": "一身破烂，难怪登门",
+    "Source Word": "破烂",
+    "Target Word": "tattered clothes",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "定又是那小和尚耍把戏，拜什么拜，回去瞧瞧！",
+    "Source Word": "拜什么拜",
+    "Target Word": "Worship my hoof",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "冰天雪地的，老猪孔儿都要冻住了!",
+    "Source Word": "孔儿",
+    "Target Word": "nose",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Maitreya",
+    "Chinese Subtitle": "你，心不诚",
+    "Source Word": "心不诚",
+    "Target Word": "daft without it (faith)",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Non-White",
+    "Chinese Subtitle": "等剥了你这张脸，我也去当个天命人玩玩",
+    "Source Word": "天命人",
+    "Target Word": "the Destined One",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Non-White",
+    "Chinese Subtitle": "死了一个妖猴， 又来一个妖猴",
+    "Source Word": "妖猴",
+    "Target Word": "/",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Maitreya",
+    "Chinese Subtitle": "这孽畜早先拐了我的宝贝下界",
+    "Source Word": "孽畜",
+    "Target Word": "demon",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "诚你个奶奶！",
+    "Source Word": "诚你个奶奶",
+    "Target Word": "Cut your nonsense",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Maitreya",
+    "Chinese Subtitle": "修养还不如身边小辈，羞是不羞？",
+    "Source Word": "羞是不羞",
+    "Target Word": "Shame on you",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "你这鼓着肚皮的秃头小儿，敢唬我老猪！",
+    "Source Word": "鼓着肚皮的秃头小儿",
+    "Target Word": "bald, potbellied brat",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "你这夯货，也被那老贼抓到了？",
+    "Source Word": "夯货",
+    "Target Word": "thickhead",
+    "Annotator 1": "neutral",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Yellowbrow",
+    "Chinese Subtitle": "要我说，放屁",
+    "Source Word": "放屁",
+    "Target Word": "I don't think so",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "估摸老贼借了大师兄的道行，把这破袋子又缝补了一番",
+    "Source Word": "老贼",
+    "Target Word": "old thief",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Yellowbrow",
+    "Chinese Subtitle": "信甚么狗屁如来，不如我自己来",
+    "Source Word": "狗屁",
+    "Target Word": "/",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Jinchanzi",
+    "Chinese Subtitle": "师兄如此执着输赢，可笑，可悲",
+    "Source Word": "可悲",
+    "Target Word": "pitiful",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "你莫不是那老贼变的，专来作弄人哩！",
+    "Source Word": "老贼",
+    "Target Word": "trickster",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Maitreya",
+    "Chinese Subtitle": "不拜就不拜，这般气急败坏",
+    "Source Word": "气急败坏",
+    "Target Word": "rude",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Maitreya (Yellowbrow)",
+    "Chinese Subtitle": "看看这只猴子，是否够格做我的弟子",
+    "Source Word": "够格",
+    "Target Word": "merits a place",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "此路不通，爷爷我拱也拱出一条路来！",
+    "Source Word": "此路不通",
+    "Target Word": "save your stupid path",
+    "Annotator 1": "more offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Maitreya",
+    "Chinese Subtitle": "我也不信，谁知这孽畜胆子这么大",
+    "Source Word": "孽畜",
+    "Target Word": "demon",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Yin Tiger",
+    "Chinese Subtitle": "既然来了，我便帮你把那身破铜烂铁换换",
+    "Source Word": "破铜烂铁",
+    "Target Word": "old rusty armor",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "估摸老贼借了大师兄的道行，把这破袋子又缝补了一番",
+    "Source Word": "破袋子",
+    "Target Word": "torn bag",
+    "Annotator 1": "neutral",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Maitreya (Yellowbrow)",
+    "Chinese Subtitle": "那猴儿活着的时候，只知四处求人，哭哭啼啼",
+    "Source Word": "四处求人，哭哭啼啼",
+    "Target Word": "weeping and begging for help",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "拐你两次，猪都不信！",
+    "Source Word": "猪",
+    "Target Word": "pigs",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Jinchanzi",
+    "Chinese Subtitle": "师兄如此执着输赢，可笑，可悲",
+    "Source Word": "可笑",
+    "Target Word": "ridiculous",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Yellowbrow",
+    "Chinese Subtitle": "要我说，这些去取经的，都是废物",
+    "Source Word": "废物",
+    "Target Word": "misplaced their worship",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Maitreya",
+    "Chinese Subtitle": "修养还不如身边小辈，羞是不羞？",
+    "Source Word": "修养还不如身边小辈",
+    "Target Word": "Throwing a tantrum at this age?",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Non-White",
+    "Chinese Subtitle": "死了一个妖猴， 又来一个妖猴",
+    "Source Word": "妖猴",
+    "Target Word": "monkey",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "气煞老猪！",
+    "Source Word": "气煞",
+    "Target Word": "You brat",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "大肚皮，我早该猜到是你！",
+    "Source Word": "大肚皮",
+    "Target Word": "Big belly",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Yellowbrow",
+    "Chinese Subtitle": "顽固不化！",
+    "Source Word": "顽固不化",
+    "Target Word": "Stubborn as a rock",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "小胖和尚，能拜的全拜了，路呢？",
+    "Source Word": "小胖和尚",
+    "Target Word": "Chubby one",
+    "Annotator 1": "neutral",
+    "Annotator 2": "neutral"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "他原是东来佛祖弥勒面前司磬的一个童儿",
+    "Source Word": "一个童儿",
+    "Target Word": "a servant boy",
+    "Annotator 1": "neutral",
+    "Annotator 2": "more offensive"
+  },
+  {
+    "Group": 5,
+    "Character": "Zhu Bajie",
+    "Chinese Subtitle": "莫非是那孽畜又得了什么能迷人心窍的宝贝？",
+    "Source Word": "孽畜",
+    "Target Word": "demon",
+    "Annotator 1": "less offensive",
+    "Annotator 2": "less offensive"
+  }
+]
