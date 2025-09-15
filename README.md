@@ -7,9 +7,7 @@ This repository contains the data and appendix for the paper presented at the LM
 This repository includes the following resources:
 
 *   **Black Myth: Wukong Corpus:** 
-    *   Main and side quest dialogues
-    *   Chapter-ending narratives
-    *   Song lyrics
+    *   The corpus contains 2,259 Chinese-English sentence-pairs transcribed from the Game. Note that due to copyright, only LLM translations are released.
 *   **Offensive Language Data:** Offensive language identified in Black Myth: Wukong.
 *   **Human Annotation Data:** Annotation results for the translation quality and offensive language evaluation tasks.
 *   **Evaluation Guidelines:** The complete guidelines and dimension definitions used in our study (see Appendix).
