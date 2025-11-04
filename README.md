@@ -26,7 +26,7 @@ see Appendix for detailed guideline.
 
 ## Citation
 
-If you use this dataset or find our work helpful in your research, please cite our paper :)!
+If you find our work helpful in your research, please cite our paper :)!
 ```bibtex
 @InProceedings{zhao-EtAl:2025:LM4DH,
   author    = {Zhao, Xiaojing  and  Xu, Han  and  Song, Huacheng  and  Chersoni, Emmanuele  and  Huang, Chu-Ren},
